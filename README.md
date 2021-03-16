@@ -1,4 +1,4 @@
-# Rustz is a library for functional programming in Rust.
+# Bo is a library for functional programming in Rust.
 
 It provides as-pure-as-useful functional data structures to improve the
 functional programming experience with Rust. It implements a set of 

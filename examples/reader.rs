@@ -1,6 +1,6 @@
-extern crate rustz;
+extern crate bo;
 
-use rustz::Reader;
+use bo::Reader;
 use std::vec::Vec;
 
 

@@ -1,6 +1,6 @@
-extern crate rustz;
+extern crate bo;
 
-use rustz::State;
+use bo::State;
 
 #[derive(Debug,Clone,Copy)]
 struct Account {
